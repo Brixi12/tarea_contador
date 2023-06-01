@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: #84a61f;
+  font-size: 24px;
+  margin-bottom: 2900px;
+  filter: drop-shadow(0 0 2em #171facaa);
+ border: 50px solid rgb(137, 169, 42);
+} 
+
+
+body {
+  background-color: #5b2d7f;
+}
+
+
